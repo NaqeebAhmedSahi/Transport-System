@@ -1,0 +1,73 @@
+﻿@model List<WebApplication3.Models.VehicleInfo>
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Generate Report</title>
+    <link href="https://stackpath.bootstrapcdn.com/bootstrap/4.5.2/css/bootstrap.min.css" rel="stylesheet">
+    <style>
+        .form-container {
+            margin-bottom: 20px;
+        }
+
+        .data-grid {
+            margin-top: 20px;
+        }
+    </style>
+</head>
+<body>
+    <div class="container">
+        <h1 class="my-3">Generate Report</h1>
+        <div class="form-container">
+            <form method="post" asp-action="GenerateReport" class="form-inline">
+                <div class="form-group mr-2">
+                    <label for="startDatePicker">Start Date:</label>
+                    <input type="date" class="form-control" id="startDatePicker" name="startDate" />
+                </div>
+                <div class="form-group mr-2">
+                    <label for="endDatePicker">End Date:</label>
+                    <input type="date" class="form-control" id="endDatePicker" name="endDate" />
+                </div>
+                <div class="form-check form-check-inline mr-2">
+                    <input class="form-check-input" type="checkbox" id="inCheckBox" name="inChecked" />
+                    <label class="form-check-label" for="inCheckBox">In</label>
+                </div>
+                <div class="form-check form-check-inline mr-2">
+                    <input class="form-check-input" type="checkbox" id="outCheckBox" name="outChecked" />
+                    <label class="form-check-label" for="outCheckBox">Out</label>
+                </div>
+                <button type="submit" name="action" value="Generate" class="btn btn-primary mr-2">Generate</button>
+                @* <button type="submit" name="action" value="Download" class="btn btn-secondary">Download</button> *@
+            </form>
+        </div>
+
+        <div class="data-grid">
+            <table class="table table-bordered">
+                <thead>
+                    <tr>
+                        <th>VehicleID</th>
+                        <th>Number Plate</th>
+                        <th>InOrOut</th>
+                        <th>DateTime</th>
+                        <!-- Add more table headers as needed -->
+                    </tr>
+                </thead>
+                <tbody>
+                    @foreach (var vehicleInfo in Model)
+                    {
+                        <tr>
+                            <td>@vehicleInfo.VehicleId</td>
+                            <td>@vehicleInfo.NumberPlate</td>
+                            <td>@vehicleInfo.InOrOut</td>
+                            <td>@vehicleInfo.DateTime</td>
+                            <!-- Add more table cells as needed -->
+                        </tr>
+                    }
+                </tbody>
+            </table>
+        </div>
+    </div>
+</body>
+</html>

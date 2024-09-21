@@ -1,0 +1,33 @@
+﻿<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Update Guard</title>
+    <link href="https://stackpath.bootstrapcdn.com/bootstrap/4.5.2/css/bootstrap.min.css" rel="stylesheet">
+    <style>
+        .form-container {
+            max-width: 300px;
+            margin: 20px auto;
+        }
+    </style>
+</head>
+<body>
+    <div class="container">
+        <div class="form-container">
+            <form method="post" action="/Home/UpdateGuard">
+                <div class="form-group">
+                    <input type="hidden" name="id" value="@Model.Id" />
+                    <label for="txtNewUsername">New Username:</label>
+                    <input type="text" class="form-control" id="Username" name="Username" value="@Model.Username" placeholder="Enter new username" />
+                </div>
+                <div class="form-group">
+                    <label for="txtNewPassword">New Password:</label>
+                    <input type="password" class="form-control" id="Password" name="Password" value="@Model.Password" placeholder="Enter new password" />
+                </div>
+                <button type="submit" class="btn btn-primary btn-block">Update</button>
+            </form>
+        </div>
+    </div>
+</body>
+</html>

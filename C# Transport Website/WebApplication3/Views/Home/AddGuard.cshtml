@@ -1,0 +1,59 @@
+﻿@model List<WebApplication3.Models.User>
+
+@{
+    ViewData["Title"] = "Add Guard";
+}
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <!-- Include necessary meta tags and stylesheets -->
+</head>
+<body>
+    <div class="container">
+        <div class="form-container">
+            <div class="header my-2">Add New Guard</div>
+            <form method="post" action="/Home/AddGuard">
+                <div class="form-group">
+                    <input type="text" class="form-control my-2" name="username" placeholder="Guard Username" required />
+                </div>
+                <div class="form-group">
+                    <input type="password" class="form-control my-2" name="password" placeholder="Guard Password" required/>
+                </div>
+                <button type="submit" class="btn btn-primary">Add Guard</button>
+            </form>
+        </div>
+
+        <div class="data-grid">
+            <table class="table table-bordered table-striped table-hover">
+                <thead>
+                    <tr>
+                        <th>Guard Username</th>
+                        <th>Password</th>
+                        <th>Update Guard</th>
+                        <th>Delete Guard</th>
+                    </tr>
+                </thead>
+                <tbody>
+                    @foreach (var user in Model)
+                    {
+                        <tr>
+                            <td>@user.Username</td>
+                            <td>@user.Password</td>
+                            <td>
+                                <a asp-controller="Home" asp-action="UpdateGuard" asp-route-id="@user.Id" class="btn btn-warning">Update</a>
+                              
+                            </td>
+                            <td>
+                                <form asp-controller="Home" asp-action="DeleteGuard" asp-route-id="@user.Id" method="post" style="display: inline;">
+                                    <button type="submit" class="btn btn-danger" onclick="return confirm('Are you sure you want to delete this Guard?')">Delete</button>
+                                </form>
+                            </td>
+                        </tr>
+                    }
+                </tbody>
+            </table>
+        </div>
+    </div>
+</body>
+</html>

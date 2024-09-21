@@ -1,0 +1,88 @@
+﻿@model IEnumerable<WebApplication3.Models.Driver>
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Add Driver</title>
+    <link href="https://stackpath.bootstrapcdn.com/bootstrap/4.5.2/css/bootstrap.min.css" rel="stylesheet">
+    <style>
+        .header {
+            font-weight: bold;
+            margin-bottom: 10px;
+        }
+
+        .form-container {
+            margin-bottom: 20px;
+        }
+
+        .data-grid {
+            margin-top: 20px;
+        }
+
+        .btn-custom {
+            width: 80px;
+            height: 25px;
+            margin: 5px;
+        }
+    </style>
+</head>
+<body>
+    <div class="container">
+        <div class="form-container">
+            <div class="header">Add New Driver</div>
+            <form method="post" asp-action="AddDriver">
+                <div class="form-group">
+                    <input type="text" class="form-control" id="txtFirstName" name="FirstName" placeholder="First Name" />
+                </div>
+                <div class="form-group">
+                    <input type="text" class="form-control" id="txtLastName" name="LastName" placeholder="Last Name" />
+                </div>
+                <div class="form-group">
+                    <input type="date" class="form-control" id="dpDateOfBirth" name="DateOfBirth" placeholder="Date of Birth" />
+                </div>
+                <div class="form-group">
+                    <input type="text" class="form-control" id="txtNumberPlate" name="NumberPlate" placeholder="Number Plate" />
+                </div>
+                <button type="submit" class="btn btn-primary">Add Driver</button>
+            </form>
+        </div>
+
+        <div class="data-grid">
+            <table class="table table-bordered">
+                <thead>
+                    <tr>
+                        <th>First Name</th>
+                        <th>Last Name</th>
+                        <th>Date of Birth</th>
+                        <th>Number Plate</th>
+                        <th>Update Driver</th>
+                        <th>Delete Driver</th>
+                    </tr>
+                </thead>
+                <tbody>
+                    @foreach (var driver in Model)
+                    {
+                        <tr>
+                            <td>@driver.FirstName</td>
+                            <td>@driver.LastName</td>
+                            <td>@driver.DateOfBirth</td>
+                            <td>@driver.NumberPlate</td>
+                            <td>
+                                <a asp-controller="Driver" asp-action="UpdateDriver" asp-route-id="@driver.DriverId" class="btn btn-warning">Update</a>
+                            </td>
+                            <td>
+                                <form asp-controller="Driver" asp-action="DeleteDriver" asp-route-id="@driver.DriverId" method="post" style="display: inline;">
+                                    <button type="submit" class="btn btn-danger" onclick="return confirm('Are you sure you want to delete this driver?')">Delete</button>
+                                </form>
+                            </td>
+                        </tr>
+                    }
+                </tbody>
+            </table>
+        </div>
+
+    </div>
+</body>
+</html>

@@ -1,0 +1,418 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\naqee\\source\\repos\\WebApplication3\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{1CA2154D-F0ED-4148-B746-A1ECCCFA599C}|WebApplication3\\WebApplication3.csproj|c:\\users\\naqee\\source\\repos\\webapplication3\\webapplication3\\views\\home\\admindashboard.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{1CA2154D-F0ED-4148-B746-A1ECCCFA599C}|WebApplication3\\WebApplication3.csproj|solutionrelative:webapplication3\\views\\home\\admindashboard.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1CA2154D-F0ED-4148-B746-A1ECCCFA599C}|WebApplication3\\WebApplication3.csproj|c:\\users\\naqee\\source\\repos\\webapplication3\\webapplication3\\models\\routedsystemcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1CA2154D-F0ED-4148-B746-A1ECCCFA599C}|WebApplication3\\WebApplication3.csproj|solutionrelative:webapplication3\\models\\routedsystemcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1CA2154D-F0ED-4148-B746-A1ECCCFA599C}|WebApplication3\\WebApplication3.csproj|c:\\users\\naqee\\source\\repos\\webapplication3\\webapplication3\\controllers\\reportcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1CA2154D-F0ED-4148-B746-A1ECCCFA599C}|WebApplication3\\WebApplication3.csproj|solutionrelative:webapplication3\\controllers\\reportcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1CA2154D-F0ED-4148-B746-A1ECCCFA599C}|WebApplication3\\WebApplication3.csproj|c:\\users\\naqee\\source\\repos\\webapplication3\\webapplication3\\controllers\\guardcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1CA2154D-F0ED-4148-B746-A1ECCCFA599C}|WebApplication3\\WebApplication3.csproj|solutionrelative:webapplication3\\controllers\\guardcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1CA2154D-F0ED-4148-B746-A1ECCCFA599C}|WebApplication3\\WebApplication3.csproj|c:\\users\\naqee\\source\\repos\\webapplication3\\webapplication3\\controllers\\drivercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1CA2154D-F0ED-4148-B746-A1ECCCFA599C}|WebApplication3\\WebApplication3.csproj|solutionrelative:webapplication3\\controllers\\drivercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1CA2154D-F0ED-4148-B746-A1ECCCFA599C}|WebApplication3\\WebApplication3.csproj|c:\\users\\naqee\\source\\repos\\webapplication3\\webapplication3\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1CA2154D-F0ED-4148-B746-A1ECCCFA599C}|WebApplication3\\WebApplication3.csproj|solutionrelative:webapplication3\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1CA2154D-F0ED-4148-B746-A1ECCCFA599C}|WebApplication3\\WebApplication3.csproj|c:\\users\\naqee\\source\\repos\\webapplication3\\webapplication3\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1CA2154D-F0ED-4148-B746-A1ECCCFA599C}|WebApplication3\\WebApplication3.csproj|solutionrelative:webapplication3\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1CA2154D-F0ED-4148-B746-A1ECCCFA599C}|WebApplication3\\WebApplication3.csproj|c:\\users\\naqee\\source\\repos\\webapplication3\\webapplication3\\views\\home\\superadmindashboard.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{1CA2154D-F0ED-4148-B746-A1ECCCFA599C}|WebApplication3\\WebApplication3.csproj|solutionrelative:webapplication3\\views\\home\\superadmindashboard.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1CA2154D-F0ED-4148-B746-A1ECCCFA599C}|WebApplication3\\WebApplication3.csproj|c:\\users\\naqee\\source\\repos\\webapplication3\\webapplication3\\views\\report\\generatereport.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{1CA2154D-F0ED-4148-B746-A1ECCCFA599C}|WebApplication3\\WebApplication3.csproj|solutionrelative:webapplication3\\views\\report\\generatereport.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1CA2154D-F0ED-4148-B746-A1ECCCFA599C}|WebApplication3\\WebApplication3.csproj|c:\\users\\naqee\\source\\repos\\webapplication3\\webapplication3\\views\\home\\updateguard.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{1CA2154D-F0ED-4148-B746-A1ECCCFA599C}|WebApplication3\\WebApplication3.csproj|solutionrelative:webapplication3\\views\\home\\updateguard.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1CA2154D-F0ED-4148-B746-A1ECCCFA599C}|WebApplication3\\WebApplication3.csproj|c:\\users\\naqee\\source\\repos\\webapplication3\\webapplication3\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1CA2154D-F0ED-4148-B746-A1ECCCFA599C}|WebApplication3\\WebApplication3.csproj|solutionrelative:webapplication3\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1CA2154D-F0ED-4148-B746-A1ECCCFA599C}|WebApplication3\\WebApplication3.csproj|c:\\users\\naqee\\source\\repos\\webapplication3\\webapplication3\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{1CA2154D-F0ED-4148-B746-A1ECCCFA599C}|WebApplication3\\WebApplication3.csproj|solutionrelative:webapplication3\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1CA2154D-F0ED-4148-B746-A1ECCCFA599C}|WebApplication3\\WebApplication3.csproj|c:\\users\\naqee\\source\\repos\\webapplication3\\webapplication3\\views\\shared\\_layout.cshtml.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{1CA2154D-F0ED-4148-B746-A1ECCCFA599C}|WebApplication3\\WebApplication3.csproj|solutionrelative:webapplication3\\views\\shared\\_layout.cshtml.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1CA2154D-F0ED-4148-B746-A1ECCCFA599C}|WebApplication3\\WebApplication3.csproj|c:\\users\\naqee\\source\\repos\\webapplication3\\webapplication3\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{1CA2154D-F0ED-4148-B746-A1ECCCFA599C}|WebApplication3\\WebApplication3.csproj|solutionrelative:webapplication3\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1CA2154D-F0ED-4148-B746-A1ECCCFA599C}|WebApplication3\\WebApplication3.csproj|c:\\users\\naqee\\source\\repos\\webapplication3\\webapplication3\\views\\driver\\updatedriver.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{1CA2154D-F0ED-4148-B746-A1ECCCFA599C}|WebApplication3\\WebApplication3.csproj|solutionrelative:webapplication3\\views\\driver\\updatedriver.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1CA2154D-F0ED-4148-B746-A1ECCCFA599C}|WebApplication3\\WebApplication3.csproj|c:\\users\\naqee\\source\\repos\\webapplication3\\webapplication3\\views\\home\\updateadmin.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{1CA2154D-F0ED-4148-B746-A1ECCCFA599C}|WebApplication3\\WebApplication3.csproj|solutionrelative:webapplication3\\views\\home\\updateadmin.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1CA2154D-F0ED-4148-B746-A1ECCCFA599C}|WebApplication3\\WebApplication3.csproj|c:\\users\\naqee\\source\\repos\\webapplication3\\webapplication3\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{1CA2154D-F0ED-4148-B746-A1ECCCFA599C}|WebApplication3\\WebApplication3.csproj|solutionrelative:webapplication3\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|ViewDataWindow_MSSQL__/_localdb__ProjectModels/RoutedSystem/True/SqlTable/dbo.User.sql||{0058A1F7-65F3-4DB9-B3D0-CA7E64DD73CD}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1CA2154D-F0ED-4148-B746-A1ECCCFA599C}|WebApplication3\\WebApplication3.csproj|c:\\users\\naqee\\source\\repos\\webapplication3\\webapplication3\\views\\home\\addadmin.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{1CA2154D-F0ED-4148-B746-A1ECCCFA599C}|WebApplication3\\WebApplication3.csproj|solutionrelative:webapplication3\\views\\home\\addadmin.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1CA2154D-F0ED-4148-B746-A1ECCCFA599C}|WebApplication3\\WebApplication3.csproj|c:\\users\\naqee\\source\\repos\\webapplication3\\webapplication3\\views\\home\\addguard.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{1CA2154D-F0ED-4148-B746-A1ECCCFA599C}|WebApplication3\\WebApplication3.csproj|solutionrelative:webapplication3\\views\\home\\addguard.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1CA2154D-F0ED-4148-B746-A1ECCCFA599C}|WebApplication3\\WebApplication3.csproj|c:\\users\\naqee\\source\\repos\\webapplication3\\webapplication3\\views\\driver\\adddriver.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{1CA2154D-F0ED-4148-B746-A1ECCCFA599C}|WebApplication3\\WebApplication3.csproj|solutionrelative:webapplication3\\views\\driver\\adddriver.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1CA2154D-F0ED-4148-B746-A1ECCCFA599C}|WebApplication3\\WebApplication3.csproj|c:\\users\\naqee\\source\\repos\\webapplication3\\webapplication3\\models\\dbhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1CA2154D-F0ED-4148-B746-A1ECCCFA599C}|WebApplication3\\WebApplication3.csproj|solutionrelative:webapplication3\\models\\dbhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1CA2154D-F0ED-4148-B746-A1ECCCFA599C}|WebApplication3\\WebApplication3.csproj|c:\\users\\naqee\\source\\repos\\webapplication3\\webapplication3\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{1CA2154D-F0ED-4148-B746-A1ECCCFA599C}|WebApplication3\\WebApplication3.csproj|solutionrelative:webapplication3\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1CA2154D-F0ED-4148-B746-A1ECCCFA599C}|WebApplication3\\WebApplication3.csproj|c:\\users\\naqee\\source\\repos\\webapplication3\\webapplication3\\models\\vehicleinfo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1CA2154D-F0ED-4148-B746-A1ECCCFA599C}|WebApplication3\\WebApplication3.csproj|solutionrelative:webapplication3\\models\\vehicleinfo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1CA2154D-F0ED-4148-B746-A1ECCCFA599C}|WebApplication3\\WebApplication3.csproj|c:\\users\\naqee\\source\\repos\\webapplication3\\webapplication3\\models\\errorviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1CA2154D-F0ED-4148-B746-A1ECCCFA599C}|WebApplication3\\WebApplication3.csproj|solutionrelative:webapplication3\\models\\errorviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "AdminDashboard.cshtml",
+              "DocumentMoniker": "C:\\Users\\naqee\\source\\repos\\WebApplication3\\WebApplication3\\Views\\Home\\AdminDashboard.cshtml",
+              "RelativeDocumentMoniker": "WebApplication3\\Views\\Home\\AdminDashboard.cshtml",
+              "ToolTip": "C:\\Users\\naqee\\source\\repos\\WebApplication3\\WebApplication3\\Views\\Home\\AdminDashboard.cshtml",
+              "RelativeToolTip": "WebApplication3\\Views\\Home\\AdminDashboard.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAGAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-26T12:53:33.552Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ReportController.cs",
+              "DocumentMoniker": "C:\\Users\\naqee\\source\\repos\\WebApplication3\\WebApplication3\\Controllers\\ReportController.cs",
+              "RelativeDocumentMoniker": "WebApplication3\\Controllers\\ReportController.cs",
+              "ToolTip": "C:\\Users\\naqee\\source\\repos\\WebApplication3\\WebApplication3\\Controllers\\ReportController.cs",
+              "RelativeToolTip": "WebApplication3\\Controllers\\ReportController.cs",
+              "ViewState": "AQIAAE8AAAAAAAAAAAAewFgAAAAKAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-18T03:23:41.113Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "RoutedSystemContext.cs",
+              "DocumentMoniker": "C:\\Users\\naqee\\source\\repos\\WebApplication3\\WebApplication3\\Models\\RoutedSystemContext.cs",
+              "RelativeDocumentMoniker": "WebApplication3\\Models\\RoutedSystemContext.cs",
+              "ToolTip": "C:\\Users\\naqee\\source\\repos\\WebApplication3\\WebApplication3\\Models\\RoutedSystemContext.cs",
+              "RelativeToolTip": "WebApplication3\\Models\\RoutedSystemContext.cs",
+              "ViewState": "AQIAABIAAAAAAAAAAAAAABkAAAD2AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-18T10:03:38.874Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "DriverController.cs",
+              "DocumentMoniker": "C:\\Users\\naqee\\source\\repos\\WebApplication3\\WebApplication3\\Controllers\\DriverController.cs",
+              "RelativeDocumentMoniker": "WebApplication3\\Controllers\\DriverController.cs",
+              "ToolTip": "C:\\Users\\naqee\\source\\repos\\WebApplication3\\WebApplication3\\Controllers\\DriverController.cs",
+              "RelativeToolTip": "WebApplication3\\Controllers\\DriverController.cs",
+              "ViewState": "AQIAAIEAAAAAAAAAAAAAAHoAAAANAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-18T03:22:47.675Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "GuardController.cs",
+              "DocumentMoniker": "C:\\Users\\naqee\\source\\repos\\WebApplication3\\WebApplication3\\Controllers\\GuardController.cs",
+              "RelativeDocumentMoniker": "WebApplication3\\Controllers\\GuardController.cs",
+              "ToolTip": "C:\\Users\\naqee\\source\\repos\\WebApplication3\\WebApplication3\\Controllers\\GuardController.cs",
+              "RelativeToolTip": "WebApplication3\\Controllers\\GuardController.cs",
+              "ViewState": "AQIAADYAAAAAAAAAAAAAAEUAAAA3AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-18T03:23:09.795Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\naqee\\source\\repos\\WebApplication3\\WebApplication3\\Program.cs",
+              "RelativeDocumentMoniker": "WebApplication3\\Program.cs",
+              "ToolTip": "C:\\Users\\naqee\\source\\repos\\WebApplication3\\WebApplication3\\Program.cs",
+              "RelativeToolTip": "WebApplication3\\Program.cs",
+              "ViewState": "AQIAAAIAAAAAAAAAAAAQwAsAAAAEAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-18T02:45:13.471Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "C:\\Users\\naqee\\source\\repos\\WebApplication3\\WebApplication3\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "WebApplication3\\Controllers\\HomeController.cs",
+              "ToolTip": "C:\\Users\\naqee\\source\\repos\\WebApplication3\\WebApplication3\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "WebApplication3\\Controllers\\HomeController.cs",
+              "ViewState": "AQIAALYAAAAAAAAAAAAQwLsAAAAKAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-18T02:43:14.908Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "SuperAdminDashboard.cshtml",
+              "DocumentMoniker": "C:\\Users\\naqee\\source\\repos\\WebApplication3\\WebApplication3\\Views\\Home\\SuperAdminDashboard.cshtml",
+              "RelativeDocumentMoniker": "WebApplication3\\Views\\Home\\SuperAdminDashboard.cshtml",
+              "ToolTip": "C:\\Users\\naqee\\source\\repos\\WebApplication3\\WebApplication3\\Views\\Home\\SuperAdminDashboard.cshtml",
+              "RelativeToolTip": "WebApplication3\\Views\\Home\\SuperAdminDashboard.cshtml",
+              "ViewState": "AQIAAEcAAAAAAAAAAAAqwFcAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-18T03:08:34.366Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "GenerateReport.cshtml",
+              "DocumentMoniker": "C:\\Users\\naqee\\source\\repos\\WebApplication3\\WebApplication3\\Views\\Report\\GenerateReport.cshtml",
+              "RelativeDocumentMoniker": "WebApplication3\\Views\\Report\\GenerateReport.cshtml",
+              "ToolTip": "C:\\Users\\naqee\\source\\repos\\WebApplication3\\WebApplication3\\Views\\Report\\GenerateReport.cshtml",
+              "RelativeToolTip": "WebApplication3\\Views\\Report\\GenerateReport.cshtml",
+              "ViewState": "AQIAACEAAAAAAAAAAAAAACkAAAB2AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-18T03:17:50.008Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "UpdateGuard.cshtml",
+              "DocumentMoniker": "C:\\Users\\naqee\\source\\repos\\WebApplication3\\WebApplication3\\Views\\Home\\UpdateGuard.cshtml",
+              "RelativeDocumentMoniker": "WebApplication3\\Views\\Home\\UpdateGuard.cshtml",
+              "ToolTip": "C:\\Users\\naqee\\source\\repos\\WebApplication3\\WebApplication3\\Views\\Home\\UpdateGuard.cshtml",
+              "RelativeToolTip": "WebApplication3\\Views\\Home\\UpdateGuard.cshtml",
+              "ViewState": "AQIAAAwAAAAAAAAAAAAAABkAAABUAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-18T03:19:54.586Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "User.cs",
+              "DocumentMoniker": "C:\\Users\\naqee\\source\\repos\\WebApplication3\\WebApplication3\\Models\\User.cs",
+              "RelativeDocumentMoniker": "WebApplication3\\Models\\User.cs",
+              "ToolTip": "C:\\Users\\naqee\\source\\repos\\WebApplication3\\WebApplication3\\Models\\User.cs",
+              "RelativeToolTip": "WebApplication3\\Models\\User.cs",
+              "ViewState": "AQIAAAEAAAAAAAAAAAAAwAkAAAApAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-18T10:03:59.884Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\naqee\\source\\repos\\WebApplication3\\WebApplication3\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "WebApplication3\\Views\\Home\\Index.cshtml",
+              "ToolTip": "C:\\Users\\naqee\\source\\repos\\WebApplication3\\WebApplication3\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "WebApplication3\\Views\\Home\\Index.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAABAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-18T02:48:54.882Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\Users\\naqee\\source\\repos\\WebApplication3\\WebApplication3\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "WebApplication3\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\Users\\naqee\\source\\repos\\WebApplication3\\WebApplication3\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "WebApplication3\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABgAAAAuAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-26T11:41:09.791Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "launchSettings.json",
+              "DocumentMoniker": "C:\\Users\\naqee\\source\\repos\\WebApplication3\\WebApplication3\\Properties\\launchSettings.json",
+              "RelativeDocumentMoniker": "WebApplication3\\Properties\\launchSettings.json",
+              "ToolTip": "C:\\Users\\naqee\\source\\repos\\WebApplication3\\WebApplication3\\Properties\\launchSettings.json",
+              "RelativeToolTip": "WebApplication3\\Properties\\launchSettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-05-26T11:38:24.159Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "_Layout.cshtml.css",
+              "DocumentMoniker": "C:\\Users\\naqee\\source\\repos\\WebApplication3\\WebApplication3\\Views\\Shared\\_Layout.cshtml.css",
+              "RelativeDocumentMoniker": "WebApplication3\\Views\\Shared\\_Layout.cshtml.css",
+              "ToolTip": "C:\\Users\\naqee\\source\\repos\\WebApplication3\\WebApplication3\\Views\\Shared\\_Layout.cshtml.css",
+              "RelativeToolTip": "WebApplication3\\Views\\Shared\\_Layout.cshtml.css",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2024-05-26T11:41:06.19Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "UpdateDriver.cshtml",
+              "DocumentMoniker": "C:\\Users\\naqee\\source\\repos\\WebApplication3\\WebApplication3\\Views\\Driver\\UpdateDriver.cshtml",
+              "RelativeDocumentMoniker": "WebApplication3\\Views\\Driver\\UpdateDriver.cshtml",
+              "ToolTip": "C:\\Users\\naqee\\source\\repos\\WebApplication3\\WebApplication3\\Views\\Driver\\UpdateDriver.cshtml",
+              "RelativeToolTip": "WebApplication3\\Views\\Driver\\UpdateDriver.cshtml",
+              "ViewState": "AQIAABcAAAAAAAAAAAAAAC8AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-18T03:19:06.346Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "UpdateAdmin.cshtml",
+              "DocumentMoniker": "C:\\Users\\naqee\\source\\repos\\WebApplication3\\WebApplication3\\Views\\Home\\UpdateAdmin.cshtml",
+              "RelativeDocumentMoniker": "WebApplication3\\Views\\Home\\UpdateAdmin.cshtml",
+              "ToolTip": "C:\\Users\\naqee\\source\\repos\\WebApplication3\\WebApplication3\\Views\\Home\\UpdateAdmin.cshtml",
+              "RelativeToolTip": "WebApplication3\\Views\\Home\\UpdateAdmin.cshtml",
+              "ViewState": "AQIAAAwAAAAAAAAAAAAYwBQAAAA0AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-18T03:18:35.545Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "dbo.User [Data]",
+              "DocumentMoniker": "ViewDataWindow_MSSQL__/_localdb__ProjectModels/RoutedSystem/True/SqlTable/dbo.User.sql",
+              "ToolTip": "dbo.User [Data]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000826|",
+              "WhenOpened": "2024-05-26T11:04:51.487Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "AddAdmin.cshtml",
+              "DocumentMoniker": "C:\\Users\\naqee\\source\\repos\\WebApplication3\\WebApplication3\\Views\\Home\\AddAdmin.cshtml",
+              "RelativeDocumentMoniker": "WebApplication3\\Views\\Home\\AddAdmin.cshtml",
+              "ToolTip": "C:\\Users\\naqee\\source\\repos\\WebApplication3\\WebApplication3\\Views\\Home\\AddAdmin.cshtml",
+              "RelativeToolTip": "WebApplication3\\Views\\Home\\AddAdmin.cshtml",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAABQAAAB6AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-18T03:12:15.109Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "AddGuard.cshtml",
+              "DocumentMoniker": "C:\\Users\\naqee\\source\\repos\\WebApplication3\\WebApplication3\\Views\\Home\\AddGuard.cshtml",
+              "RelativeDocumentMoniker": "WebApplication3\\Views\\Home\\AddGuard.cshtml",
+              "ToolTip": "C:\\Users\\naqee\\source\\repos\\WebApplication3\\WebApplication3\\Views\\Home\\AddGuard.cshtml",
+              "RelativeToolTip": "WebApplication3\\Views\\Home\\AddGuard.cshtml",
+              "ViewState": "AQIAAAkAAAAAAAAAAAAAABQAAAB6AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-18T03:16:56.78Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "DBHandler.cs",
+              "DocumentMoniker": "C:\\Users\\naqee\\source\\repos\\WebApplication3\\WebApplication3\\Models\\DBHandler.cs",
+              "RelativeDocumentMoniker": "WebApplication3\\Models\\DBHandler.cs",
+              "ToolTip": "C:\\Users\\naqee\\source\\repos\\WebApplication3\\WebApplication3\\Models\\DBHandler.cs",
+              "RelativeToolTip": "WebApplication3\\Models\\DBHandler.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-18T10:13:24.461Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "AddDriver.cshtml",
+              "DocumentMoniker": "C:\\Users\\naqee\\source\\repos\\WebApplication3\\WebApplication3\\Views\\Driver\\AddDriver.cshtml",
+              "RelativeDocumentMoniker": "WebApplication3\\Views\\Driver\\AddDriver.cshtml",
+              "ToolTip": "C:\\Users\\naqee\\source\\repos\\WebApplication3\\WebApplication3\\Views\\Driver\\AddDriver.cshtml",
+              "RelativeToolTip": "WebApplication3\\Views\\Driver\\AddDriver.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAFgAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-18T03:14:55.926Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\naqee\\source\\repos\\WebApplication3\\WebApplication3\\appsettings.json",
+              "RelativeDocumentMoniker": "WebApplication3\\appsettings.json",
+              "ToolTip": "C:\\Users\\naqee\\source\\repos\\WebApplication3\\WebApplication3\\appsettings.json",
+              "RelativeToolTip": "WebApplication3\\appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAIAAAAgAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-05-18T10:30:57.899Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "VehicleInfo.cs",
+              "DocumentMoniker": "C:\\Users\\naqee\\source\\repos\\WebApplication3\\WebApplication3\\Models\\VehicleInfo.cs",
+              "RelativeDocumentMoniker": "WebApplication3\\Models\\VehicleInfo.cs",
+              "ToolTip": "C:\\Users\\naqee\\source\\repos\\WebApplication3\\WebApplication3\\Models\\VehicleInfo.cs",
+              "RelativeToolTip": "WebApplication3\\Models\\VehicleInfo.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-18T10:04:02.299Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "ErrorViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\naqee\\source\\repos\\WebApplication3\\WebApplication3\\Models\\ErrorViewModel.cs",
+              "RelativeDocumentMoniker": "WebApplication3\\Models\\ErrorViewModel.cs",
+              "ToolTip": "C:\\Users\\naqee\\source\\repos\\WebApplication3\\WebApplication3\\Models\\ErrorViewModel.cs",
+              "RelativeToolTip": "WebApplication3\\Models\\ErrorViewModel.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-18T03:06:44.527Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

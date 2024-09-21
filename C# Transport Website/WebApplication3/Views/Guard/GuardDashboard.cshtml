@@ -1,0 +1,52 @@
+﻿@model WebApplication3.Models.VehicleInfo
+@{
+    ViewData["Title"] = "GuardDashboard";
+}
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>GuardDashboard</title>
+    <link href="https://stackpath.bootstrapcdn.com/bootstrap/4.5.2/css/bootstrap.min.css" rel="stylesheet">
+</head>
+<body>
+    <div class="container">
+        <div class="row">
+            <div class="col-md-6">
+                <div class="card mt-5">
+                    <div class="card-header">
+                        <h5 class="card-title">Incoming Vehicles</h5>
+                    </div>
+                    <div class="card-body">
+                        <form asp-action="ClickIn">
+                            <div class="form-group">
+                                <label for="incomingPlateTextBox">Enter Number Plate:</label>
+                                <input type="text" class="form-control" id="incomingPlateTextBox" name="incomingPlateTextBox" />
+                            </div>
+                            <button type="submit" class="btn btn-primary">Submit</button>
+                        </form>
+                    </div>
+                </div>
+            </div>
+            <div class="col-md-6">
+                <div class="card mt-5">
+                    <div class="card-header">
+                        <h5 class="card-title">Outgoing Vehicles</h5>
+                    </div>
+                    <div class="card-body">
+                        <form asp-action="ClickOut">
+                            <div class="form-group">
+                                <label for="outgoingPlateTextBox">Enter Number Plate:</label>
+                                <input type="text" class="form-control" id="outgoingPlateTextBox" name="outgoingPlateTextBox" />
+                            </div>
+                            <button type="submit" class="btn btn-primary">Submit</button>
+                        </form>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+</body>
+</html>
